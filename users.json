@@ -1,0 +1,24 @@
+{
+    "success": true,
+    "results": 
+    {
+        "nb": 4,
+        "users": [
+            {
+                "id": "3",
+                "firstname": "nicolas",
+                "lastname": "elbaz"
+            },
+            {
+                "id": "2",
+                "firstname": "christel",
+                "lastname": "lavaut"
+            },
+            {
+                "id": "1",
+                "firstname": "bahri",
+                "lastname": "mohammed"
+            }
+        ]
+    }
+}
